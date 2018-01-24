@@ -12,3 +12,9 @@ public class ActuatorApplication {
 		SpringApplication.run(ActuatorApplication.class, args);
 	}
 }
+
+
+/*this  actuator project mainly expose the diferent type of  evironments like metrics 
+and dump and etc
+
+*/
